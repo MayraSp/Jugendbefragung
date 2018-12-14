@@ -271,16 +271,16 @@ nav a {
 .sectOne {
     background-image: linear-gradient( rgba(20, 20, 20, .7),
     rgba(20, 20, 20, .7)),
-    url("/img/img7.jpg");
+    url("/Jugendbefragung/img/img7.jpg");
 }
 
 .sectTwo {
-    background-image: url("/img/img5.jpg");
+    background-image: url("/Jugendbefragung/img/img5.jpg");
     height: 300px;
 }
 
 .sectThree {
-    background-image: url("/img/img6.jpg");
+    background-image: url("/Jugendbefragung/img/img6.jpg");
     color: #FFFFFF
 }
 
